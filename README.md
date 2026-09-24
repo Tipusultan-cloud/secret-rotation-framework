@@ -126,3 +126,15 @@ The framework can be extended to support:
 - API tokens
 - Scheduled credential rotation
 - Event-based rotation
+
+## Screenshots
+
+### Successful Secret Rotation
+
+![Successful Secret Rotation](docs/images/Secret-rotation-input.png)
+![Successful Secret Rotation](docs/images/Secret-rotation-all-logs.png)
+![Successful Secret Rotation](docs/images/Secret-rotation-error.png)
+![Successful Secret Rotation](docs/images/Secret-rotation-output.png)
+![Successful Secret Rotation](docs/images/Secret-rotation-all-logs.png)
+
+
